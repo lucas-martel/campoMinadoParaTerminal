@@ -1,4 +1,4 @@
-<h1>campoMinadoParaTerminal</h1>
+![campominado](https://user-images.githubusercontent.com/88909899/146862377-1fe64be6-65f6-4737-a880-34627e7dedb7.jpg)
 <h2 textColor="red">jogo de terminal</h2>
 <h3> Objetivo: Não explodir nenhuma bomba.</h3>
 <h3> versão 0.1 </h3>
