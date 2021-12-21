@@ -1,4 +1,4 @@
-![campominado](https://user-images.githubusercontent.com/88909899/146862377-1fe64be6-65f6-4737-a880-34627e7dedb7.jpg)
+![campominado](https://user-images.githubusercontent.com/88909899/146862755-38314225-7937-4f73-aef2-1e244cf5d96d.jpg)
 <h2 textColor="red">jogo de terminal</h2>
 <h3> Objetivo: Não explodir nenhuma bomba.</h3>
 <h3> versão 0.1 </h3>
